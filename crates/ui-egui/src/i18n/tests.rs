@@ -523,6 +523,18 @@ fn live_switch_translates_the_shell_without_mutating_drawing_or_automation() {
     assert_eq!(crate::menus::tree(&app).first().unwrap().0, "File");
 }
 
+/// About names, as plain text, the upstream app this build is based on, and links to no community.
+#[test]
+fn about_names_the_upstream_app_as_plain_text() {
+    let mut app = CadApp::new(Session::new(), Services::default());
+    app.ui.dialog = Some("about".into());
+    let ctx = egui::Context::default();
+    app.logic(&ctx);
+    let text = render(&mut app, &ctx);
+    assert!(text.contains(crate::dialogs::BASED_ON), "{text}");
+    assert!(text.contains("github.com/storytold/cadcraft") && !text.contains("Discord"), "{text}");
+}
+
 #[test]
 fn dialogs_render_in_every_language_and_keep_their_source_ids() {
     for language in translated() {

@@ -458,8 +458,6 @@
 	Jogged	Зі зламом
 	Jogged Linear	Лінійний зі зламом
 	Join	Об'єднати
-	Join the ArtCraft Discord…	Приєднатися до Discord ArtCraft…
-	Join us on Discord	Приєднуйтеся до нас у Discord
 	Isometric Plane	Ізометрична площина
 	Isometric snap	Ізометрична крокова прив'язка
 	Language	Мова
@@ -603,7 +601,6 @@
 	Offset	Зміщення
 	On	Увімкнено
 	On/Off	Увімкнути/вимкнути
-	One of the Crafting Apps by the ArtCraft team and community.	Одна з програм Crafting Apps від команди та спільноти ArtCraft.
 	Only in this drawing: {n}	Лише в цьому кресленні: {n}
 	Only in {name}: {n}	Лише в {name}: {n}
 	Oops	Відновити стерті об'єкти
@@ -1464,7 +1461,7 @@
 	Check for updates when CADCraft starts	Перевіряти оновлення під час запуску CADCraft
 	Turned off, CADCraft never offers an update on its own; Help ▸ Check for Updates… still looks.	Якщо вимкнено, CADCraft ніколи сам не пропонує оновлення; Довідка ▸ Перевірити оновлення… усе одно перевіряє.
 
-# ArtCraft feature naming
+# Feature naming
 	Additional Tools	Додаткові інструменти
 # Properties palette: text, mtext and dimension rows (properties.describe)
 	Overrides the dimension style. Right-click to use the style's value.	Перевизначає розмірний стиль. Клацніть правою кнопкою, щоб використати значення стилю.
