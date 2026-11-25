@@ -567,7 +567,7 @@ and request/session binding, and replies with `save_screenshot(&image, path)`. B
   web deadline.
 
 CADCraft adopts the shared craft-ui CL-2 completion-slot API (the eleven existing craft-ui creative consumers'
-approach; DeckCraft, FigCraft and ArtCraft Native keep local adapters).
+approach; DeckCraft, FigCraft and the upstream team's native studio app keep local adapters).
 Request records, paths, PNG serialization, timeouts and the reply schema stay in
 CADCraft. If the provisional CL-2 API is unavailable, S3 is blocked rather than
 growing a second divergent helper.

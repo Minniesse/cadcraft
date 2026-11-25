@@ -75,7 +75,7 @@ Checks for the crates you changed: `cargo test -p <crate>`, `cargo clippy -p <cr
 Paths and conventions:
 
 - No crate allows `unsafe` (`unsafe_code = "forbid"` in the workspace).
-- Attribution file: `ATTRIBUTION.md` (`cargo xtask assets`). Icons are drawn in `crates/ui-egui/src/icons.rs`, hatch patterns and linetypes are defined in `crates/doc/src/library.rs`, the drafting font is `crates/fonts/src/stroke.rs`. `docs/brand/` holds ArtCraft brand files under `docs/brand/LICENSE-brand.txt`.
+- Attribution file: `ATTRIBUTION.md` (`cargo xtask assets`). Icons are drawn in `crates/ui-egui/src/icons.rs`, hatch patterns and linetypes are defined in `crates/doc/src/library.rs`, the drafting font is `crates/fonts/src/stroke.rs`.
 - Fonts: storytold/craft-fonts through the optional `CRAFT_FONTS_DIR` build input, embedded by `crates/fonts/build.rs`.
 - Test corpora: `storytold/cadcraft-corpus`.
 - Progress log: `ROADMAP.md`. `plan/` is an optional gitignored notebook.

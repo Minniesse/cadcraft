@@ -461,8 +461,6 @@
 	Jogged	გატეხილი
 	Jogged Linear	გატეხილი წრფივი
 	Join	შეერთება
-	Join the ArtCraft Discord…	შემოუერთდით ArtCraft-ის Discord-ს…
-	Join us on Discord	შემოგვიერთდით Discord-ზე
 	Isometric Plane	იზომეტრიული სიბრტყე
 	Isometric snap	იზომეტრიული მიბმა
 	Language	ენა
@@ -605,7 +603,6 @@
 	Offset	წანაცვლება
 	On	ჩართული
 	On/Off	ჩართვა/გამორთვა
-	One of the Crafting Apps by the ArtCraft team and community.	ArtCraft-ის გუნდისა და საზოგადოების ერთ-ერთი Crafting App.
 	Only in this drawing: {n}	მხოლოდ ამ ნახაზში: {n}
 	Only in {name}: {n}	მხოლოდ ფაილში {name}: {n}
 	Open (⌘O)	გახსნა (⌘O)
@@ -1520,7 +1517,7 @@ menu	View	ხედი
 	This library has no drawings or blocks.	ამ ბიბლიოთეკაში ნახაზები ან ბლოკები არ არის.
 	Only the first {n} are shown.	ნაჩვენებია მხოლოდ პირველი {n}.
 
-# ArtCraft feature naming
+# Feature naming
 	Additional Tools	დამატებითი ხელსაწყოები
 
 # Keyboard Shortcuts, Right-Click Customization, alias import

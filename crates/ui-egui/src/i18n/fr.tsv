@@ -358,8 +358,6 @@
 	Isolate Layer	Isoler le calque
 	Isometric Drafting	Dessin isométrique
 	Join	Rejoindre
-	Join the ArtCraft Discord…	Rejoindre le Discord d'ArtCraft…
-	Join us on Discord	Rejoignez-nous sur Discord
 	Language	Langue
 	Last	Dernier
 	Last commit	Dernière révision
@@ -489,7 +487,6 @@
 	Offset	Décalage
 	On	Activé
 	On/Off	Activer/Désactiver
-	One of the Crafting Apps by the ArtCraft team and community.	L'une des applications Crafting Apps de l'équipe et de la communauté ArtCraft.
 	Oops	Restaurer les objets effacés
 	Open (⌘O)	Ouvrir (⌘O)
 	Open Sample Drawing	Ouvrir un dessin d'exemple
@@ -1066,5 +1063,5 @@
 	Back to CADCraft's shortcut	Revenir au raccourci de CADCraft
 	A shortcut you give wins over CADCraft's own. Changes apply at once and are kept for next time.	Un raccourci que vous définissez l'emporte sur celui de CADCraft. Les modifications s'appliquent tout de suite et sont conservées.
 
-# ArtCraft feature naming
+# Feature naming
 	Additional Tools	Outils supplémentaires
